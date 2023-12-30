@@ -1,2 +1,3 @@
 # get_next_line
-42Cursus get_next_line project
+This project is about programming a function that returns a line
+read from a file descriptor.
